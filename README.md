@@ -1,6 +1,22 @@
+![Estructuras](/LOGO.png)
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/RubioHaro/)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/RubioHaro/Linearity/blob/master/LICENSE)
+
+
+
 # Estructura de datos
 
-Formas de organizar informacion para manipular, buscar e insertar datos de forma eficiente.
+Este repositorio contiene las practicas realizadas en el seguimiento de los tutoriales Estructuras de datos, de [makigas](https://www.makigas.es/series/estructuras-de-datos) (Tutoriales a mi parecer con aportes de contenido de enorme valor y con un formato inigualable), así como fundamentos teóricos de diversas fuentes (véase bibliografía).
+
+Definición: Son Formas de organizar informacion para manipular, buscar e insertar datos de forma eficiente.
+
+## Listas enlazadas
+
+Una lista enlazada es una colección de elementos dispuestos uno detrás de otro, en la que cada elemento se conecta al siguiente mediante un enlace, o un puntero. Los elementos de estas listas son llamados nodos, y estan compuestos por dos partes:
+
+- Dato: es donde se contiene la información.
+- Puntero: es el enlace al siguiente elemento de la lista, al siguiente nodo.
 
 ## Pilas/Stack
 
@@ -33,15 +49,6 @@ UEPS: Ultimo en Entrar. Primero en salir.
     Si la pila esta llena y hacemos un push el error sera:
     `overflow`
 
-# 
-### Por Rubio Haro Rodrigo Rodolfo
+# Autor y Bibliografía
 
-<https://github.com/RubioHaro>
-
-### INSTITUTO POLITECNICO NACIONAL (IPN)
-
-<https://www.ipn.mx/>
-
-### ESCUELA SUPERIOR DE COMPUTO (ESCOM)
-
-<https://www.escom.ipn.mx/>
+Repositorio desarrollado por [Rubio Haro Rodrigo R.](https://github.com/RubioHaro). Curso de Estructuras desarrollado por [makigas](https://www.makigas.es/series/estructuras-de-datos). Cabe mencionar el deslinde de cualquier relación de autoría y/o colaboración para este repositorio.
