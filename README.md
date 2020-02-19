@@ -47,6 +47,12 @@ UEPS: Ultimo en Entrar. Primero en salir.
     Si la pila esta llena y hacemos un push el error sera:
     `overflow`
 
+## Cola
+
+### Cola Circular
+
+
+
 # Autor y Bibliografía
 
 Repositorio desarrollado por [Rubio Haro Rodrigo R.](https://github.com/RubioHaro). Curso de Estructuras desarrollado por [makigas](https://www.makigas.es/series/estructuras-de-datos). Cabe mencionar el deslinde de cualquier relación de autoría y/o colaboración para este repositorio.
