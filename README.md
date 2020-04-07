@@ -47,6 +47,12 @@ UEPS: Ultimo en Entrar. Primero en salir.
     Si la pila esta llena y hacemos un push el error sera:
     `overflow`
 
+# Tipos de Datos Abstractos (TDA)
+
+Un TDA es una estructura algebraica compuesta por un conjunto de objetos abstractos, que modelan elementos del mundo, y un conjunto de operaciones para su manipulación, las cuales simulan el comportamiento que el elemento modelado tiene en el mundo del problema. 
+
 # Autor y Bibliografía
 
 Repositorio desarrollado por [Rubio Haro Rodrigo R.](https://github.com/RubioHaro). Curso de Estructuras desarrollado por [makigas](https://www.makigas.es/series/estructuras-de-datos). Cabe mencionar el deslinde de cualquier relación de autoría y/o colaboración para este repositorio.
+
+[//]: # (Villalobos Jorge, Diseño y manejo de estructuras de datos en C, Editorial McGraw-Hill Interamericana, 1996. )
